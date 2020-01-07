@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{3B538E45-9E46-B501-CF8E-8D0F8F29B4AD}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ManagerScripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="101" Column="40" />
+      <File FileName="Assets/Scripts/ManagerScripts/LevelManager.cs" Line="101" Column="17" />
+      <File FileName="Assets/Scripts/ManagerScripts/LevelGenerator.cs" Line="31" Column="43" />
+      <File FileName="Assets/Scripts/BallTrigger.cs" Line="58" Column="11" />
+      <File FileName="Assets/Scripts/ManagerScripts/ShopManager.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/ManagerScripts/IAPManager.cs" Line="166" Column="56" />
+      <File FileName="Assets/Scripts/ManagerScripts/AdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ManagerScripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ManagerScripts/ManagerGenerator.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/ManagerScripts/MainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
